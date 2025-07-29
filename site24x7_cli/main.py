@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Site24x7 CLI - Site24x7 CLI - Comprehensive monitoring and management tool
-Version: 1.20250725.1943
+Version: 1.20250729.1637
 Generated automatically by AI from Site24x7 API documentation
 
 This CLI provides comprehensive access to all Site24x7 monitoring and management capabilities.
@@ -28,7 +28,7 @@ from site24x7_cli.commands.reports import reports_group
 
 
 @click.group(name='site24x7')
-@click.version_option(version='1.20250725.1943')
+@click.version_option(version='1.20250729.1637')
 @click.option('--config', '-c', help='Configuration file path')
 @click.option('--output', '-o', type=click.Choice(['table', 'json', 'yaml']), 
               default='table', help='Output format')
