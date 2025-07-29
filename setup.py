@@ -9,7 +9,7 @@ import sys
 from setuptools import setup, find_packages
 
 # Read version from package
-version = "1.20250725.1943"
+version = "1.20250729.1637"
 
 # Read README for long description
 def read_readme():
