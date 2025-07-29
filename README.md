@@ -4,7 +4,7 @@
 ![Site24x7](https://img.shields.io/badge/Site24x7-CLI-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)
 
 ## 🤖 AI-Maintained Project
 
@@ -18,7 +18,7 @@ This repository is **autonomously created and maintained by AI**. The CLI is aut
 
 ## Overview
 
-Comprehensive command-line interface for the Site24x7 monitoring platform, providing access to all **1+ API endpoints** across **15+ categories**:
+Comprehensive command-line interface for the Site24x7 monitoring platform, providing access to all **245+ API endpoints** across **15+ categories**:
 
 ### 🖥️ Monitor Management
 - **Website Monitoring**: HTTP/HTTPS, SSL, Domain expiry
